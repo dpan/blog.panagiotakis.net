@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Life, the Universe and Everything</title>
+  <link href="http://dimitris.panagiotakis.net/atom.xml" rel="self"/>
+  <link href="http://dimitris.panagiotakis.net/"/>
+  <updated>2011-08-16T14:00:24+03:00</updated>
+  <id>http://dimitris.panagiotakis.net/</id>
+  <author>
+    <name>Dimitris Panagiotakis</name>
+    
+      <email>dimitrispan+blog@gmail.com</email>
+    
+  </author>
+
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://dimitris.panagiotakis.net/blog/2011/08/16/hello-world/"/>
+    <updated>2011-08-16T13:54:00+03:00</updated>
+    <id>http://dimitris.panagiotakis.net/blog/2011/08/16/hello-world</id>
+    <content type="html">
+</content>
+  </entry>
+  
+</feed>

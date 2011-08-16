@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://dimitris.panagiotakis.net/blog/2011/08/16/hello-world/</loc>
+        <lastmod>2011-08-16T13:54:19+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dimitris.panagiotakis.net/blog/archives/</loc>
+        <lastmod>2011-08-16T13:54:19+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dimitris.panagiotakis.net/</loc>
+        <lastmod>2011-08-16T13:54:19+03:00</lastmod>
+    </url>
+</urlset>
